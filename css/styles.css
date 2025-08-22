@@ -78,6 +78,7 @@ p{margin:.2rem 0 .8rem;color:var(--muted)}
 .reviews{display:grid;grid-template-columns:1fr;gap:1rem}
 .review{background:#0e1a33;border:1px solid rgba(255,255,255,.06);border-radius:14px;padding:1rem}
 @media(min-width:900px){.reviews{grid-template-columns:repeat(3,1fr)}}
+.reviews-widget-wrap{margin-bottom:1rem}
 
 .contact .grid-2{display:grid;grid-template-columns:1fr;gap:1rem}
 .quote-form{display:grid;gap:.6rem}
